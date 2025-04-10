@@ -1,6 +1,10 @@
 # ASat Monomer Classifier
 Using Long Short-Term Memory (LSTM) network for classifying monomers in alpha satellites
 
+# Code 
+
+The code for this project is available in this cloab notebook: 
+https://colab.research.google.com/drive/1O8iDVpxOQQSgrnWNLT7XPrSzZZum6zQJ?usp=sharing
 
 # Characterizing centromeric monomers at the read level using LSTM
 
